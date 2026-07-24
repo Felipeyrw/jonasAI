@@ -81,13 +81,9 @@ Resposta ao cliente
 
 ## 🚀 Possíveis melhorias
 
-- Envio de fotos dos imóveis
-- Compartilhamento de links dos anúncios
 - Agendamento automático de visitas
 - Integração com CRM
 - Integração com Google Calendar
-- Painel administrativo
-- Dashboard de métricas
 
 ---
 
