@@ -2,6 +2,11 @@
 
 **Jonas** é um assistente de IA para imobiliárias que automatiza o atendimento via WhatsApp. Desenvolvido para oferecer uma experiência natural ao cliente, o sistema compreende o contexto das conversas, consulta uma base de conhecimento utilizando RAG (Retrieval-Augmented Generation) e auxilia clientes na busca pelo imóvel ideal.
 
+<div align="center">
+  <img src="fotos/image1.png" width="48%">
+  <img src="fotos/image2.png" width="48%">
+</div>
+
 ## ✨ Funcionalidades
 
 - Atendimento automatizado pelo WhatsApp
